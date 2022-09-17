@@ -1,5 +1,5 @@
 # Git Desarrollo colaborativo
-
+Esto es una guia practica para el curso de Git Desarrollo colaborativo.
 ## Consfiguracion inicial
 
 *_git init_ inicializa un nuevo repositorio en la carpeta/directorio actual.
