@@ -20,7 +20,7 @@ Esto es una guia practica para el curso de Git Desarrollo colaborativo. _todos l
 * __git remote set-url `alias` `url`:__ Modifica la url del repositorio remoto seleccionado.
 * __git remote remove `alias`:__ Elimina el repositorio remoto de la lista de direcciones remotas.
 
-## Sincronizacion
+## Sincronizacion de Cambios
 
 * __git clone `url`:__ Descarga en una carpeta el contenido de un repositorio remoto.
 * __git push `remote` `branch`:__ Envia el historial de confirmaciones al repositorio remoto.
