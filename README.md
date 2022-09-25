@@ -4,7 +4,7 @@ Esto es una guia practica para el curso de Git Desarrollo colaborativo. _todos l
 
 * __git init:__ inicializa un nuevo repositorio en la carpeta/directorio actual.
 * __git user.name `username` :__ Define el nombre de usuario para las confirmaciones.
-* __git user.email `username` :__ Define el correro de contacto que se muestra en el registro de cambios.
+* __git user.email `email` :__ Define el correro de contacto que se muestra en el registro de cambios.
 
 ## Gestion de cambios
-* __git status
+* __git status:__
