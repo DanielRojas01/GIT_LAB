@@ -11,3 +11,11 @@ Esto es una guia practica para el curso de Git Desarrollo colaborativo. _todos l
 * __git add `file`:__ Agrega al _stagin Area (INDEX)_ los archivos indicados, realizados la _carpeta de codigo (snapshot)_
 * __git commit:__ Realiza la configuracion de la captura, almacenando los cambios en un _archivo BLOB (Binary Large Objet)_
 * __git log:__ Muestra el historial de confirmaciones de manera decendente, donde los commit se dentifican por su numero de _Hash_
+
+## Repositorio Remotos
+
+* __git remote -v:__ Muestra los repositorios remtos gestionados, incluyendo la url de los mismos.
+* __git remote add `alias` `url`:__ Agrega una nueva direccion remota donde podemos subir los cambios.
+* __git remote rename `old_name` `new_name`:__ Cambia el nombre de algun repositorio remoto.
+* __git remote set-url `alias` `url`:__ Modifica la url del repositorio remoto seleccionado.
+* __git remote remove `alias`:__ Elimina el repositorio remoto de la lista de direcciones remotas.
