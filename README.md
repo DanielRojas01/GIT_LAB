@@ -19,3 +19,10 @@ Esto es una guia practica para el curso de Git Desarrollo colaborativo. _todos l
 * __git remote rename `old_name` `new_name`:__ Cambia el nombre de algun repositorio remoto.
 * __git remote set-url `alias` `url`:__ Modifica la url del repositorio remoto seleccionado.
 * __git remote remove `alias`:__ Elimina el repositorio remoto de la lista de direcciones remotas.
+
+## Sincronizacion
+
+* __git clone `url`:__ Descarga en una carpeta el contenido de un repositorio remoto.
+* __git push `remote` `branch`:__ Envia el historial de confirmaciones al repositorio remoto.
+* __git fetch `remote`:__ Descarga el historial de confirmaciones del repositorio remoto.
+* __git pull `remote` `branch`:__ Descarga e integra los cambios del repositorio remoto.
