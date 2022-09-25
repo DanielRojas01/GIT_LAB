@@ -5,7 +5,7 @@ Esto es una guia practica para el curso de Git Desarrollo colaborativo. _todos l
 * __git init:__ Inicializa un nuevo repositorio en la carpeta/directorio actual.
 * __git user.name `username` :__ Define el nombre de usuario para las confirmaciones.
 * __git user.email `email` :__ Define el correro de contacto que se muestra en el registro de cambios.
-
+* __git remote rename `nombre del remoto` nuevo `nombre`:__ Cambia el nombre del remoto.
 ## Gestion de cambios
 * __git status:__ Muestra el estado de los archivos comparando el _Working Directory_ con el _Staging Area (INDEX)_
 * __git add `file`:__ Agrega al _stagin Area (INDEX)_ los archivos indicados, realizados la _carpeta de codigo (snapshot)_
